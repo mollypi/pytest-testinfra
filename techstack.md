@@ -3,16 +3,16 @@
 ## Tech Stack
 mollypi/pytest-testinfra is built on the following main stack:
 
-- [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - [Python](https://www.python.org) – Languages
 - [Tornado](http://www.tornadoweb.org/) – Frameworks (Full Stack)
-- [Sphinx](http://sphinxsearch.com/) – Search Engines
-- [Debian](https://www.debian.org/) – Operating Systems
-- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
+- [Ansible](http://www.ansible.com/) – Server Configuration and Automation
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [pytest](http://pytest.org/latest/) – Testing Frameworks
 - [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Debian](https://www.debian.org/) – Operating Systems
+- [Sphinx](http://sphinxsearch.com/) – Search Engines
+- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 mollypi/pytest-testinfra is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1002/tornado.png' alt='Tornado'/> [Tornado](http://www.tornadoweb.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
-- <img width='25' height='25' src='https://img.stackshare.io/service/1656/vd4gAekh.png' alt='Debian'/> [Debian](https://www.debian.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1656/vd4gAekh.png' alt='Debian'/> [Debian](https://www.debian.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
+- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/pytest-testinfra](https://github.com/mollypi/pytest-testinfra)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|01/05/24 <br/>Report generated|
+|12<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
